@@ -1,0 +1,37 @@
+.u-section-1 .u-sheet-1 {min-height: 9101px}
+.u-section-1 .u-text-1 {margin: 20px 0 0}
+.u-section-1 .u-text-2 {margin: 20px auto 0}
+.u-section-1 .u-text-3 {font-size: 1.5rem; margin: 20px 0 0}
+.u-section-1 .u-text-4 {font-size: 1.625rem; font-weight: 700; margin: 20px auto 0}
+.u-section-1 .u-image-1 {width: 881px; height: 415px; margin: 20px auto 0}
+.u-section-1 .u-text-5 {font-size: 1.5rem; margin: 30px auto 0}
+.u-section-1 .u-text-6 {font-size: 1.625rem; font-weight: 700; margin: 20px auto 0}
+.u-section-1 .u-image-2 {width: 819px; height: 506px; margin: 30px auto 0}
+.u-section-1 .u-text-7 {font-size: 1.5rem; margin: 30px auto 0}
+.u-section-1 .u-text-8 {font-size: 1.625rem; font-weight: 700; margin: 20px auto 0}
+.u-section-1 .u-image-3 {width: 718px; height: 432px; margin: 30px auto 0}
+.u-section-1 .u-text-9 {font-size: 1.5rem; margin: 30px auto 0}
+.u-section-1 .u-text-10 {margin: 20px auto 0}
+.u-section-1 .u-text-11 {font-size: 1.5rem; margin: 20px auto 0}
+.u-section-1 .u-text-12 {margin: 20px auto 0}
+.u-section-1 .u-text-13 {font-size: 1.5rem; margin: 20px auto 0}
+.u-section-1 .u-text-14 {font-size: 1.625rem; font-weight: 700; margin: 20px auto 0}
+.u-section-1 .u-image-4 {width: 938px; height: 446px; margin: 45px 96px 0 auto}
+.u-section-1 .u-text-15 {font-size: 1.5rem; margin: 30px auto 60px} 
+
+@media (max-width: 1199px){ .u-section-1 .u-image-4 {margin-right: 2px} }
+
+@media (max-width: 991px){ .u-section-1 .u-sheet-1 {min-height: 424px}
+.u-section-1 .u-image-1 {width: 720px; height: 339px}
+.u-section-1 .u-image-2 {width: 720px; height: 445px}
+.u-section-1 .u-image-4 {width: 720px; height: 342px; margin-right: 0} }
+
+@media (max-width: 767px){ .u-section-1 .u-image-1 {width: 540px; height: 254px}
+.u-section-1 .u-image-2 {width: 540px; height: 334px}
+.u-section-1 .u-image-3 {width: 540px; height: 325px}
+.u-section-1 .u-image-4 {width: 540px; height: 257px} }
+
+@media (max-width: 575px){ .u-section-1 .u-image-1 {width: 340px; height: 160px}
+.u-section-1 .u-image-2 {width: 340px; height: 210px}
+.u-section-1 .u-image-3 {width: 340px; height: 205px}
+.u-section-1 .u-image-4 {width: 340px; height: 162px} }

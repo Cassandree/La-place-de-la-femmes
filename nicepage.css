@@ -26809,7 +26809,7 @@ a.u-link.u-text-hover-grey-90:hover {
  .u-footer {background-image: none}
 .u-footer .u-sheet-1 {min-height: 153px}
 .u-footer .u-image-1 {width: 85px; height: 105px; margin: 24px 0 0 auto}
-.u-footer .u-text-1 {margin: -75px 352px 55px 371px} 
+.u-footer .u-text-1 {font-size: 1rem; margin: -75px 352px 55px 371px} 
 @media (max-width: 1199px){ .u-footer .u-sheet-1 {min-height: 99px}
 .u-footer .u-text-1 {width: 417px; margin-left: 271px; margin-right: 252px} }
 @media (max-width: 991px){ .u-footer .u-sheet-1 {min-height: 76px}
